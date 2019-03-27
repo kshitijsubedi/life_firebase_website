@@ -15,10 +15,6 @@ https://life-by-horizon.firebaseapp.com
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale?type=dev)
 
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
-
-## Usage
-
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
@@ -36,13 +32,6 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
