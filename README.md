@@ -2,10 +2,7 @@
 
 https://life-by-horizon.firebaseapp.com
 
-# [Start Bootstrap - Grayscale]
-
-
-[Grayscale]is a multipurpose, one page HTML theme for [Bootstrap] created by [Start Bootstrap]
+# [Start Bootstrap - Grayscale] - one page HTML site.
 
 ## Status
 
